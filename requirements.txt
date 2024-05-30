@@ -1,6 +1,3 @@
-crispy-bootstrap5
-django-crispy-forms
-gunicorn
 asgiref==3.8.1
 attrs==23.1.0
 certifi==2023.11.17
